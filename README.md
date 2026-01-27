@@ -8,6 +8,12 @@
 
 ## 目录结构
 
+项目根目录下：
+
+- Transmitter --> 发射器源代码
+- Receiver --> 接收器源代码
+- LICENSE --> 使用协议
+- README.md --> 介绍
 
 
 ## 下载&编译
@@ -22,13 +28,26 @@
 
 ### 手动编译
 
-1. 首先用 PlatformIO 打开发射器或者接收器的项目
+1. 用 Visual Studio Code 打开 **发射器(Transmitter)** 或者 **接收器(Receiver)** 的项目
 
-2. 点击界面左下角或者左边的 Build 进行编译即可
+   本项目需要使用 **Visual Studio Code** 打开，如没有请先下载安装。
+
+   安装好 Visual Studio Code 后，请在左边界面安装 **PlatformIO** 插件。
+
+   根据提示重新打开这个项目， PlatformIO 会自动下载依赖等等数据，这时候请不要编译或者上传固件。
+
+2. 修改代码 *(如有需要)*
+
+   根据 **README.md** 提供的 **目录结构** ，可以快速理解代码的原理，根据自己需要修改代码。
+
+3. 点击界面左下角或者左边的 Build 进行编译即可
+
+   找到 PlatformIO 自带的 **Build** 按钮编译即可，这时候会自动下载依赖编译程序，如有问题欢迎提交 **Issues** 。
 
 
 ## 相关链接
 
-[项目介绍](https://oshwhub.com/dudu233/wireless-microphone)
-[固件下载](https://github.com/mcdudu233/Wireless_Microphone/releases)
-[我的博客](https://www.mcso.top/)
+- [项目介绍](https://oshwhub.com/dudu233/wireless-microphone)
+- [固件开源](https://github.com/mcdudu233/Wireless_Microphone.git)
+- [固件下载](https://github.com/mcdudu233/Wireless_Microphone/releases)
+- [我的博客](https://www.mcso.top/)
