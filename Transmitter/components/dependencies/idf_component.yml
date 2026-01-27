@@ -1,0 +1,6 @@
+dependencies:
+  espressif/esp_audio_effects:
+    version: ^1.2.0
+description: Import for dependencies.
+targets:
+- esp32s3
