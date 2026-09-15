@@ -1,0 +1,6 @@
+[submodule "Transmitter"]
+	path = Transmitter
+	url = https://github.com/mcdudu233/Wireless_Microphone_Transmitter.git
+[submodule "Receiver"]
+	path = Receiver
+	url = https://github.com/mcdudu233/Wireless_Microphone_Receiver.git
