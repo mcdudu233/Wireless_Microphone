@@ -1,6 +1,6 @@
 # 无线领夹式麦克风 (Wireless Microphone)
 
-![演示](https://github.com/user-attachments/assets/459fc99b-dca7-4327-b93d-d6d94750cb9f)
+<img width="1672" height="940" alt="cover" src="https://github.com/user-attachments/assets/255d1cf8-6acf-4ca4-be1c-75d734e76708" />
 
 本项为开源无线领夹式麦克风的代码，完整开源项目见 [立创平台](https://oshwhub.com/dudu233/wireless-microphone) ，如果喜欢可以点个 **Star** 哦~
 
